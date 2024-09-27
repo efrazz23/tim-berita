@@ -11,8 +11,8 @@ _Lakukan secara urut step - step dibawah ini untuk install dan edit repo ini._
    git clone https://github.com/efrazz23/tim-berita.git
    ```
 7. Ubah file koneksi.php, sesuaikan dengan database masing - masing
-7. Buka xampp / laragon > Hidupkan Apache dan MySQL > Buka localhost/phpmyadmin > import > pilih file berita.sql
-8. Lanjut ngedit
+8. Buka xampp / laragon > Hidupkan Apache dan MySQL > Buka localhost/phpmyadmin > import > pilih file berita.sql
+9. Lanjut ngedit
 
 ### Cara Lihat Preview
 
